@@ -1,0 +1,12 @@
+## Title: PTR Bug Reporter
+## OnlyBetaAndPTR: 0
+## Notes: Tool for gathering bugs from PTR
+## SavedVariables: PTRIssueReporter_Saved
+
+Bindings.xml
+PTRFeedback.lua
+PTRFeedback_Tooltips.lua
+PTRFeedback_Frames.lua
+PTRFeedback_Events.lua
+PTRFeedback_Constants.lua
+Reports.lua

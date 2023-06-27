@@ -45,7 +45,7 @@ PTR_IssueReporter.Assets = {
 }
 ----------------------------------------------------------------------------------------------------
 function PTR_IssueReporter.Init()
-    Blizzard_PTRIssueReporter_Saved = Blizzard_PTRIssueReporter_Saved or {}
+    PTRIssueReporter_Saved = PTRIssueReporter_Saved or {}
     
     PTR_IssueReporter.InitializePTRTooltips()
     PTR_IssueReporter.SetDefaultKeybindIfUnusedAndNotSet()
