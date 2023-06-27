@@ -1,7 +1,7 @@
 ## Title: PTR Bug Reporter
 ## OnlyBetaAndPTR: 0
 ## Notes: Tool for gathering bugs from PTR
-## SavedVariables: PTRIssueReporter_Saved
+## SavedVariables: Blizzard_PTRIssueReporter_Saved
 
 Bindings.xml
 PTRFeedback.lua
